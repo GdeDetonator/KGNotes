@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KGNotes</string>
+    <string name="menuAdd">Add</string>
+    <string name="menuEdit">Edit</string>
+    <string name="menuDelete">Delete</string>
+    <string name="alertDialogTitle">Enter your title</string>
+    <string name="alertDialogPositiveButton">Ok</string>
+    <string name="alertDialogNegativeButton">Cansel</string>
+    <string name="tv_noitems">No items</string>
+</resources>
